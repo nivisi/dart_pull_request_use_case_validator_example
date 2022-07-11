@@ -1,0 +1,2 @@
+# dart_pull_request_use_case_validator_example
+An example how to use dart_pull_request_use_case_validator
